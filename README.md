@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on ecommerce side.
 - 🌱 I’m currently learning REST API and React.js
+- 📚 I want to learn Node.js and Python(django)
 - 🤔 I’m looking for help with advanced JavaScript
 - 📫 How to reach me: Gmail - lukasz.szmidt07@gmail.com | LinkedIn - https://www.linkedin.com/in/%C5%82ukasz-szmidt/
 - ⚡ Fun fact: Probably every programmer use i and j to declare a veriable in for loop
