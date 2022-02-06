@@ -1,4 +1,4 @@
-### Hi there, I'm Łukasz a self-taught web developer
+### Hi there, I'm Łukasz 👋
 
 - 🔭 I’m currently working on ecommerce side.
 - 🌱 I’m currently learning REST API and React.js
