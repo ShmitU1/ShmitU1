@@ -1,6 +1,6 @@
 ### Hi there, I'm Łukasz a self-taught web developer
 
-- 🔭 I’m currently working on Frontier.
+- 🔭 I’m currently working on ecommerce side.
 - 🌱 I’m currently learning REST API and React.js
 - 🤔 I’m looking for help with advanced JavaScript
 - 📫 How to reach me: Gmail - lukasz.szmidt07@gmail.com | LinkedIn - https://www.linkedin.com/in/%C5%82ukasz-szmidt/
