@@ -1,6 +1,6 @@
 ### Hi there, I'm Łukasz 👋
 
-- 🔭 I’m currently working on some website which use an API.
+- 🔭 I’m currently working on some projects where I use React library.
 - 🌱 I’m currently learning React.js
 - 📚 I want to learn Node.js and Tailwind CSS
 - 🤔 I’m looking for some advice about what i can do better, so feel free to read my code and contact me if you had any advice❤️
