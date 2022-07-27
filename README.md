@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on some projects where I use React library.
 - 🌱 I’m currently learning React.js
-- 📚 I want to learn Node.js and Tailwind CSS
-- 🤔 I’m looking for some advice about what i can do better, so feel free to read my code and contact me if you had any advice❤️
+- 📚 I want to learn Next.js and Tailwind CSS
 - 📫 How to reach me: Gmail - lukasz.szmidt07@gmail.com | LinkedIn - https://www.linkedin.com/in/%C5%82ukasz-szmidt/
 
 <br />
