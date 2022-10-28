@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on some projects where I use React library.
 - 🌱 I’m currently learning React.js
-- 📚 I want to learn Next.js and Tailwind CSS
+- 📚 I want to learn Next.js
 - 📫 How to reach me: Gmail - lukasz.szmidt07@gmail.com | LinkedIn - https://www.linkedin.com/in/%C5%82ukasz-szmidt/
 
 <br />
