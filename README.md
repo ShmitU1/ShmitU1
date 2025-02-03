@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on some projects where I use React library / Tailwind / TypeScript.
 - 🌱 I’m currently learning React.js, TypeScript, Framer Motion, Redux Toolkit
-- 📫 How to reach me: Gmail - lukasz.szmidt07@gmail.com | LinkedIn - https://www.linkedin.com/in/%C5%82ukasz-szmidt/
+- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/%C5%82ukasz-szmidt/
 
 <br />
 
